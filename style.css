@@ -19,7 +19,11 @@
 }
 
 .logo{
+<<<<<<< HEAD
     background-image: url(/project_logo.png);
+=======
+    background-image: url(/src/project_logo.png);
+>>>>>>> 82c3b18d5d7d8b146bfc550b6f52d0a3c36660a7
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -148,7 +152,11 @@ span{
 /** hero section **/
 
 .hero-section{
+<<<<<<< HEAD
     background-image: url(/again_picture.png);
+=======
+    background-image: url(/src/again_picture.png);
+>>>>>>> 82c3b18d5d7d8b146bfc550b6f52d0a3c36660a7
     background-size: cover;
     height: 350px;
     display: flex;
@@ -260,7 +268,11 @@ ul a{
 }
 
 .logo{
+<<<<<<< HEAD
     background-image: url(/project_logo.png);
+=======
+    background-image: url(/src/project_logo.png);
+>>>>>>> 82c3b18d5d7d8b146bfc550b6f52d0a3c36660a7
     background-size: cover;
     height: 40px;
     width: 100px;
